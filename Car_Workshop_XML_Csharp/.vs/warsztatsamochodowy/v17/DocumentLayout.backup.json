@@ -1,0 +1,478 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\views\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\views\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\views\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\views\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\views\\orderreportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\views\\orderreportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\views\\mechanicwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\views\\mechanicwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\views\\mechanicwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\views\\mechanicwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\views\\jobwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\views\\jobwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\views\\jobwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\views\\jobwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\views\\clientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\views\\clientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\views\\clientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\views\\clientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\views\\carwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\views\\carwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\views\\carwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\views\\carwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\viewmodels\\orderreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\viewmodels\\orderreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\viewmodels\\mechanicviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\viewmodels\\mechanicviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\viewmodels\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\viewmodels\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\viewmodels\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\viewmodels\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\viewmodels\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\viewmodels\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\models\\mechanic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\models\\mechanic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|c:\\users\\maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\views\\orderreportview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2327E686-B4DA-4251-8819-D5738F87A6AF}|warsztatsamochodowy\\warsztatsamochodowy.csproj|solutionrelative:warsztatsamochodowy\\views\\orderreportview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderReportView.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\OrderReportView.xaml",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Views\\OrderReportView.xaml",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\OrderReportView.xaml",
+              "RelativeToolTip": "warsztatsamochodowy\\Views\\OrderReportView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T14:35:16.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\OrderWindow.xaml",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Views\\OrderWindow.xaml",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\OrderWindow.xaml",
+              "RelativeToolTip": "warsztatsamochodowy\\Views\\OrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T14:33:27.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\MainWindow.xaml.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:26:43.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\MainWindow.xaml",
+              "RelativeToolTip": "warsztatsamochodowy\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T14:26:38.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MechanicWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\MechanicWindow.xaml.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Views\\MechanicWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\MechanicWindow.xaml.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Views\\MechanicWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:09:34.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MechanicWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\MechanicWindow.xaml",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Views\\MechanicWindow.xaml",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\MechanicWindow.xaml",
+              "RelativeToolTip": "warsztatsamochodowy\\Views\\MechanicWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T15:09:31.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\OrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Views\\OrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\OrderWindow.xaml.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Views\\OrderWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:33:34.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\JobWindow.xaml.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Views\\JobWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\JobWindow.xaml.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Views\\JobWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:09:29.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\JobWindow.xaml",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Views\\JobWindow.xaml",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\JobWindow.xaml",
+              "RelativeToolTip": "warsztatsamochodowy\\Views\\JobWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T15:09:25.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\ClientWindow.xaml",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Views\\ClientWindow.xaml",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\ClientWindow.xaml",
+              "RelativeToolTip": "warsztatsamochodowy\\Views\\ClientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T14:54:38.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\ClientWindow.xaml.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Views\\ClientWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\ClientWindow.xaml.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Views\\ClientWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:54:44.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\ViewModels\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\ViewModels\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:33:10.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\CarWindow.xaml.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Views\\CarWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\CarWindow.xaml.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Views\\CarWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:26:33.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\CarWindow.xaml",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Views\\CarWindow.xaml",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\CarWindow.xaml",
+              "RelativeToolTip": "warsztatsamochodowy\\Views\\CarWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T14:26:30.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\ViewModels\\OrderReportViewModel.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\ViewModels\\OrderReportViewModel.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\ViewModels\\OrderReportViewModel.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\ViewModels\\OrderReportViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:36:46.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MechanicViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\ViewModels\\MechanicViewModel.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\ViewModels\\MechanicViewModel.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\ViewModels\\MechanicViewModel.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\ViewModels\\MechanicViewModel.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:09:04.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\ViewModels\\JobViewModel.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\ViewModels\\JobViewModel.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\ViewModels\\JobViewModel.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\ViewModels\\JobViewModel.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:09:01.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Services\\CarService.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Services\\CarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:08:09.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Models\\Order.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:33:16.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Mechanic.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Models\\Mechanic.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Models\\Mechanic.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Models\\Mechanic.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Models\\Mechanic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:40:25.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Models\\Job.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:08:25.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Services\\ClientService.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Services\\ClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:08:02.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\ViewModels\\CarViewModel.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\ViewModels\\CarViewModel.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\ViewModels\\CarViewModel.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\ViewModels\\CarViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:26:29.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\ViewModels\\ClientViewModel.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\ViewModels\\ClientViewModel.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\ViewModels\\ClientViewModel.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\ViewModels\\ClientViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:54:18.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Models\\Car.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:26:28.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:26:26.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:26:25.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Models\\Client.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:54:09.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderReportView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\OrderReportView.xaml.cs",
+              "RelativeDocumentMoniker": "warsztatsamochodowy\\Views\\OrderReportView.xaml.cs",
+              "ToolTip": "C:\\Users\\Maciek\\source\\repos\\warsztatsamochodowy\\warsztatsamochodowy\\Views\\OrderReportView.xaml.cs",
+              "RelativeToolTip": "warsztatsamochodowy\\Views\\OrderReportView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:44:09.376Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    color: white;
+    background-image: url('/images/pexels-jonathanborba-29382706.jpg');
+    background-size: cover; /* Scale image to cover entire background */
+    background-position: center center; /* Center the image horizontally and vertically */
+    background-attachment: fixed; /* Make the background fixed during scrolling */
+    background-repeat: no-repeat;
+}
+
+
+.container {
+    max-width: 1200px;
+    margin-top: 20px;
+}
+
+.card {
+    height: 100%;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    text-align: center;
+}
+
+/* Stylizacja zdjêæ - te same wymiary, bez deformacji */
+.car-image {
+    width: 100%;
+    height: 200px; /* Sta³a wysokoœæ dla zdjêæ */
+    object-fit: cover; /* Dopasowanie zdjêcia bez zniekszta³ceñ */
+}
+
+/* Karty og³oszeñ - spójne wymiary */
+.car-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Równomierne roz³o¿enie treœci */
+    height: 100%; /* Karty zajmuj¹ równ¹ wysokoœæ */
+}
+
+/* Uk³ad rzêdów z odstêpami */
+.row {
+    gap: 0; /* Odstêpy miêdzy elementami */
+}
+
+/* Uk³ad przycisku */
+.card-body .btn {
+    width: 100%; /* Przycisk wype³nia szerokoœæ */
+}
+
+.modal-content {
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border: none;
+}
+
+.btn-success,
+.btn-warning {
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.img-fluid {
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.jumbotron {
+    margin-bottom: 2rem;
+}
+
+.col-md-4 {
+    color: black; 
+}
+
+.table th, .table td {
+    color: white;
+}
+
+#makeOfferModal .modal-body {
+    color: black !important;
+}

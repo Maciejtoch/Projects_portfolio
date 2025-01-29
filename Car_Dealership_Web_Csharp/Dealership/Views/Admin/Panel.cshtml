@@ -1,0 +1,12 @@
+﻿@using Microsoft.AspNetCore.Authorization
+@{
+    ViewData["Title"] = "Admin Panel";
+}
+
+@{
+    if (User.IsInRole("Admin"))
+    {
+<h1>Admin Panel</h1>
+<p>Witaj w panelu administratora!</p>
+    }
+}

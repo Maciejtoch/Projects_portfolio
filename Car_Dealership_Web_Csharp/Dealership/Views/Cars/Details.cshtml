@@ -1,0 +1,113 @@
+﻿@model Dealership.Models.Car
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+
+<div class="container my-5">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="@Model.ImageUrl" class="img-fluid rounded shadow-lg" alt="@Model.Make @Model.Model" />
+        </div>
+
+        <div class="col-md-6">
+            <h2 class="text-primary">@Model.Make @Model.Model</h2>
+            <p><strong>Year:</strong> @Model.Year</p>
+            <p><strong>Price:</strong> $@Model.Price</p>
+
+            
+            <div class="mt-4">
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    <button class="btn btn-success me-2" onclick="showSellerInfo()">Buy Now</button>
+                    <button class="btn btn-warning" onclick="showAdvisorInfo()">Test Drive</button>
+                    <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#makeOfferModal">Make an Offer</button>
+                }
+                else
+                {
+                    <button class="btn btn-secondary me-2" onclick="showLoginInfo()">Buy Now</button>
+                    <button class="btn btn-secondary" onclick="showLoginInfo()">Test Drive</button>
+                }
+            </div>
+
+            @if (User.IsInRole("Admin"))
+            {
+                <form method="post" action="@Url.Action("DeleteCar", "Admin", new { id = Model.Id })" class="mt-3">
+                    <button type="submit" class="btn btn-danger">Delete Car</button>
+                </form>
+            }
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="infoModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Information</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p id="modalContent"></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="makeOfferModal" tabindex="-1" aria-labelledby="makeOfferModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="makeOfferModalLabel">Make an Offer</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form method="post" action="@Url.Action("SubmitOffer", "Cars")">
+                    <div class="mb-3">
+                        <label for="FirstName" class="form-label">First Name</label>
+                        <input type="text" class="form-control" id="FirstName" name="FirstName" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="LastName" class="form-label">Last Name</label>
+                        <input type="text" class="form-control" id="LastName" name="LastName" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="PhoneNumber" class="form-label">Phone Number</label>
+                        <input type="text" class="form-control" id="PhoneNumber" name="PhoneNumber" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="Price" class="form-label">Price</label>
+                        <input type="number" class="form-control" id="Price" name="Price" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="Message" class="form-label">Message</label>
+                        <textarea class="form-control" id="Message" name="Message"></textarea>
+                    </div>
+                    <input type="hidden" name="carId" value="@Model.Id">
+                    <button type="submit" class="btn btn-primary">Submit Offer</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function showLoginInfo() {
+        document.getElementById("modalContent").innerText = "Please log-in to get further information. ";
+        var myModal = new bootstrap.Modal(document.getElementById('infoModal'), {});
+        myModal.show();
+    }
+
+    function showSellerInfo() {
+        document.getElementById("modalContent").innerText = "Seller Name: John Doe\nPhone: 123-456-789";
+        var myModal = new bootstrap.Modal(document.getElementById('infoModal'), {});
+        myModal.show();
+    }
+
+    function showAdvisorInfo() {
+        document.getElementById("modalContent").innerText = "Advisor Name: Jane Smith\nPhone: 987-654-321";
+        var myModal = new bootstrap.Modal(document.getElementById('infoModal'), {});
+        myModal.show();
+    }
+</script>

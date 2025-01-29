@@ -1,0 +1,21 @@
+﻿@model Dealership.Models.Order
+
+<h2>Order Details</h2>
+
+<div>
+    <strong>Order Number:</strong> @Model.Id  
+</div>
+<div>
+    <strong>Car Model:</strong> @Model.Car.Make @Model.Car.Model 
+</div>
+<div>
+    <strong>Customer Name:</strong> @Model.Customer.Name 
+</div>
+<div>
+    <strong>Order Date:</strong> @Model.OrderDate.ToString("yyyy-MM-dd")
+</div>
+<div>
+    <strong>Status:</strong> @Model.Status
+</div>
+
+<a class="btn btn-secondary" href="@Url.Action("Index", "Orders")">Back to Orders List</a>

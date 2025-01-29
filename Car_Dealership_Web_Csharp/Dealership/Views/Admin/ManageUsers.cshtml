@@ -1,0 +1,48 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Dealership.Models
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    ViewData["Title"] = "Manage Users";
+}
+
+<h2>Manage Users</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info">
+        @TempData["Message"]
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Email</th>
+            <th>Rola</th>
+            <th>Akcja</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.Id</td>
+                <td>@u.Email</td>
+                <td>
+                    @foreach (var role in await UserManager.GetRolesAsync(u))
+                    {
+                        <span>@role</span>
+                    }
+                </td>
+                <td>
+                    <form method="post" action="@Url.Action("DeleteUser", "Admin")">
+                        <input type="hidden" name="userId" value="@u.Id" />
+                        <button type="submit" class="btn btn-danger">Usuń użytkownika</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Dealership.Models.Car>
+
+<h2 class="text-center my-4">Cars for Sale</h2>
+
+<div class="container-fluid">
+    <div class="row g-3">
+        @foreach (var car in Model)
+        {
+            <div class="col-12 col-sm-6 col-md-4">
+                <div class="card shadow-sm car-card">
+                    @if (!string.IsNullOrEmpty(car.ImageUrl))
+                    {
+                        <img src="@car.ImageUrl" class="card-img-top car-image" alt="@car.Make @car.Model">
+                    }
+                    else
+                    {
+                        <img src="/images/default.png" class="card-img-top car-image" alt="Default car image">
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title text-center">@car.Make @car.Model</h5>
+                        <p class="card-text text-center">
+                            <strong>Year:</strong> @car.Year<br />
+                            <strong>Price:</strong> @car.Price
+                        </p>
+                        <div class="d-grid">
+                            <a href="@Url.Action("Details", "Cars", new { id = car.Id })" class="btn btn-primary">Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,39 @@
+department,gender,count
+Accounting,Female,717
+Accounting,Male,865
+Accounting,Non-Conforming,40
+Auditing,Female,13
+Auditing,Male,11
+Business Development,Female,350
+Business Development,Male,405
+Business Development,Non-Conforming,19
+Engineering,Female,1474
+Engineering,Male,1626
+Engineering,Non-Conforming,91
+Human Resources,Female,431
+Human Resources,Male,457
+Human Resources,Non-Conforming,25
+Legal,Female,71
+Legal,Male,85
+Legal,Non-Conforming,3
+Marketing,Female,125
+Marketing,Male,126
+Marketing,Non-Conforming,1
+Product Management,Female,147
+Product Management,Male,171
+Product Management,Non-Conforming,8
+Research and Development,Female,229
+Research and Development,Male,249
+Research and Development,Non-Conforming,16
+Sales,Female,421
+Sales,Male,451
+Sales,Non-Conforming,23
+Services,Female,387
+Services,Male,397
+Services,Non-Conforming,17
+Support,Female,214
+Support,Male,243
+Support,Non-Conforming,12
+Training,Female,378
+Training,Male,438
+Training,Non-Conforming,25

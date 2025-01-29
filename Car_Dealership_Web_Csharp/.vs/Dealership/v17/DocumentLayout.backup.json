@@ -1,0 +1,837 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\services\\useractivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\services\\useractivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\services\\iuseractivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\services\\iuseractivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\models\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\models\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\migrations\\20241109123409_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\migrations\\20241109123409_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\migrations\\20241109123648_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\migrations\\20241109123648_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\migrations\\20241109120054_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\migrations\\20241109120054_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\admin\\adminoffers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\admin\\adminoffers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\admin\\addcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\admin\\addcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\models\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\models\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\models\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\models\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\admin\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\admin\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|c:\\users\\maciek\\onedrive\\4 semestr\\programowanie\\studia\\dealership\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8F6749-F264-4ED5-9D4D-2C34550FC5C9}|Dealership\\Dealership.csproj|solutionrelative:dealership\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Services\\IUserActivityService.cs",
+              "RelativeDocumentMoniker": "Dealership\\Services\\IUserActivityService.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Services\\IUserActivityService.cs",
+              "RelativeToolTip": "Dealership\\Services\\IUserActivityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:12:44.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Services\\UserActivityService.cs",
+              "RelativeDocumentMoniker": "Dealership\\Services\\UserActivityService.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Services\\UserActivityService.cs",
+              "RelativeToolTip": "Dealership\\Services\\UserActivityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:15:42.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241109123409_AddIdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Migrations\\20241109123409_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "Dealership\\Migrations\\20241109123409_AddIdentityTables.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Migrations\\20241109123409_AddIdentityTables.cs",
+              "RelativeToolTip": "Dealership\\Migrations\\20241109123409_AddIdentityTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:34:09.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Dealership\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Dealership\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:13:12.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Dealership\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Dealership\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:38:01.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Dealership\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Dealership\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:50:13.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "Dealership\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Services\\CarService.cs",
+              "RelativeToolTip": "Dealership\\Services\\CarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:14:40.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Dealership\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\Car.cs",
+              "RelativeToolTip": "Dealership\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:46:18.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\Offer.cs",
+              "RelativeDocumentMoniker": "Dealership\\Models\\Offer.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\Offer.cs",
+              "RelativeToolTip": "Dealership\\Models\\Offer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:13:37.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\UserActivity.cs",
+              "RelativeDocumentMoniker": "Dealership\\Models\\UserActivity.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\UserActivity.cs",
+              "RelativeToolTip": "Dealership\\Models\\UserActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:47:23.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Dealership\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Dealership\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:04:59.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Dealership\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Dealership\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:32:11.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "Dealership\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "Dealership\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:22:33.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddCar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Admin\\AddCar.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Admin\\AddCar.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Admin\\AddCar.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Admin\\AddCar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T13:18:27.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminOffers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Admin\\AdminOffers.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Admin\\AdminOffers.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Admin\\AdminOffers.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Admin\\AdminOffers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T13:20:06.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T15:14:50.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T12:09:23.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T11:31:13.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241109120054_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Migrations\\20241109120054_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Dealership\\Migrations\\20241109120054_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Migrations\\20241109120054_InitialCreate.cs",
+              "RelativeToolTip": "Dealership\\Migrations\\20241109120054_InitialCreate.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:00:54.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Services\\ICarService.cs",
+              "RelativeDocumentMoniker": "Dealership\\Services\\ICarService.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Services\\ICarService.cs",
+              "RelativeToolTip": "Dealership\\Services\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:11:29.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241109123648_AddRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Migrations\\20241109123648_AddRoles.cs",
+              "RelativeDocumentMoniker": "Dealership\\Migrations\\20241109123648_AddRoles.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Migrations\\20241109123648_AddRoles.cs",
+              "RelativeToolTip": "Dealership\\Migrations\\20241109123648_AddRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:36:48.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Dealership\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Dealership\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:29:01.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\appsettings.json",
+              "RelativeDocumentMoniker": "Dealership\\appsettings.json",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\appsettings.json",
+              "RelativeToolTip": "Dealership\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T11:40:32.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRolesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\UserRolesViewModel.cs",
+              "RelativeDocumentMoniker": "Dealership\\Models\\UserRolesViewModel.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\UserRolesViewModel.cs",
+              "RelativeToolTip": "Dealership\\Models\\UserRolesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:08:09.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Dealership\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\Customer.cs",
+              "RelativeToolTip": "Dealership\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:46:47.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Dealership\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Dealership\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:23:05.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Dealership\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Dealership\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:20:39.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T11:45:45.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Program.cs",
+              "RelativeDocumentMoniker": "Dealership\\Program.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Program.cs",
+              "RelativeToolTip": "Dealership\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAiwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:48:20.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CarViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\CarViewModel.cs",
+              "RelativeDocumentMoniker": "Dealership\\Models\\CarViewModel.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\CarViewModel.cs",
+              "RelativeToolTip": "Dealership\\Models\\CarViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:26:41.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Dealership\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Models\\Order.cs",
+              "RelativeToolTip": "Dealership\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:47:01.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Admin\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Admin\\CreateUser.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Admin\\CreateUser.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Admin\\CreateUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T13:21:49.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T13:21:18.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ManageUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Admin\\ManageUsers.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Admin\\ManageUsers.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Admin\\ManageUsers.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Admin\\ManageUsers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T13:21:35.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Reports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Admin\\Reports.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Admin\\Reports.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Admin\\Reports.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Admin\\Reports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T13:22:30.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Cars\\Create.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Cars\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Cars\\Create.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Cars\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T13:14:40.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Cars\\Details.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Cars\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Cars\\Details.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Cars\\Details.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T10:51:44.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Cars\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Cars\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Cars\\Edit.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Cars\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T13:15:13.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Cars\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Cars\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Cars\\Index.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Cars\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T13:12:23.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAACoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T13:16:06.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Orders\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T13:20:13.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T13:19:37.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Orders\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T13:19:51.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T13:15:46.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Dealership\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Dealership\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-13T13:06:53.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Dealership\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Dealership\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T12:40:09.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Dealership\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T12:34:14.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Dealership\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T12:53:37.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Dealership\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Services\\OrderService.cs",
+              "RelativeToolTip": "Dealership\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:15:23.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Dealership\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Dealership\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:12:20.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Dealership\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Maciek\\OneDrive\\4 semestr\\programowanie\\studia\\Dealership\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Dealership\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T12:58:07.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

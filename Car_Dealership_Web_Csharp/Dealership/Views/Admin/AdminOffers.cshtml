@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Dealership.Models.Offer>
+
+<h2>Manage Offers</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Car</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Phone Number</th>
+            <th>Price</th>
+            <th>Message</th>
+            <th>Date Submitted</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var offer in Model)
+        {
+            <tr>
+                <td>@offer.Car.Make @offer.Car.Model</td>
+                <td>@offer.FirstName</td>
+                <td>@offer.LastName</td>
+                <td>@offer.PhoneNumber</td>
+                <td>@offer.Price</td>
+                <td>@offer.Message</td>
+                <td>@offer.DateSubmitted</td>
+            </tr>
+        }
+    </tbody>
+</table>

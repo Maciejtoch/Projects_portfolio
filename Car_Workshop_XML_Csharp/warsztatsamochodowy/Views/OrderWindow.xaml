@@ -1,0 +1,48 @@
+﻿<Window x:Class="warsztatsamochodowy.Views.OrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:warsztatsamochodowy.Views"
+        mc:Ignorable="d"
+        Title="OrderWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock Text="Creation Date:" VerticalAlignment="Top" Margin="10,10,0,0" />
+        <DatePicker x:Name="CreationDate" VerticalAlignment="Top" Margin="120,10,10,0" Text="{Binding CreationDate}" />
+
+        <TextBlock Text="Status:" VerticalAlignment="Top" Margin="10,180,743,0" />
+        <ComboBox x:Name="StatusComboBox"
+          HorizontalAlignment="Left"
+          VerticalAlignment="Top"
+          Margin="120,180,0,0"
+          Width="300"
+          SelectedValue="{Binding Status, Mode=TwoWay}"
+          SelectedValuePath="Content">
+            <ComboBoxItem Content="Pending" />
+            <ComboBoxItem Content="InProgress" />
+            <ComboBoxItem Content="Completed" />
+        </ComboBox>
+
+        <TextBlock Text="Description:" VerticalAlignment="Top" Margin="10,70,0,0" />
+        <TextBox x:Name="Description" VerticalAlignment="Top" Margin="120,70,10,0" Height="60" Text="{Binding Description}"/>
+
+        <TextBlock Text="Car:" VerticalAlignment="Top" Margin="10,150,0,0" />
+        <ComboBox x:Name="CarComboBox" 
+                  DisplayMemberPath="Brand" 
+                  VerticalAlignment="Top" Margin="120,150,380,0" 
+                  SelectedValue="{Binding SelectedCarId}" 
+                  SelectedValuePath="Id" 
+                  ItemsSource="{Binding Cars}" />
+
+        <TextBlock Text="Client:" VerticalAlignment="Top" Margin="10,217,0,0" />
+        <ComboBox x:Name="ClientComboBox" 
+                  DisplayMemberPath="FirstName" 
+                  VerticalAlignment="Top" Margin="120,214,380,0" 
+                  SelectedValue="{Binding SelectedClientId}" 
+                  SelectedValuePath="Id" 
+                  ItemsSource="{Binding Clients}" />
+
+        <Button Content="Add Order" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="10,0,10,10"
+                Command="{Binding AddOrderCommand}" Width="100"/>
+    </Grid>
+</Window>

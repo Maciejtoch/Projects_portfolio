@@ -1,0 +1,25 @@
+﻿@model Dealership.Models.UserRolesViewModel
+
+<h2>Edit User</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="UserId" />
+
+    <div class="form-group">
+        <label for="UserName">Username</label>
+        <input type="text" class="form-control" id="UserName" asp-for="UserName" required />
+    </div>
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="email" class="form-control" id="Email" asp-for="Email" required />
+    </div>
+    <div class="form-group">
+        <label for="Role">Role</label>
+        <select id="Role" name="Role" class="form-control" required>
+            <!option value="Admin" @(Model.Roles.Contains("Admin") ? "selected" : "")>Admin</!option>
+            <!option value="User" @(Model.Roles.Contains("User") ? "selected" : "")>User</!option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+</form>
